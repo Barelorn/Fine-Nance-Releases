@@ -1,0 +1,6 @@
+﻿{
+    "version":  "1.1.0",
+    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.1.0.zip",
+    "sha256":  "c1b97ebcdeaf64ffebecc40d45f2942a7fcdbd433176ff4b735ebeb5fcd76591",
+    "notes":  "Fine Nance 1.1.0: organized documents, improved auditing and reports, secure email alerts, payoff comparisons, trip tracking, and a GitHub-based backup-first updater."
+}
