@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.0",
-    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.2.0.zip",
-    "sha256":  "382435893e75f51ee115b5776f54aa37eb802f67e3982df8a6cfec9ce3febdd3",
-    "notes":  "Fine Nance 1.2.0: standalone wording and a zero-dollar cushion, automatic Plaid Production recognition, Windows Installed Apps uninstall support, and the latest Fine Nance improvements."
+    "version":  "1.2.1",
+    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.2.1.zip",
+    "sha256":  "16a394826e5449757b18df0fdde30897ed8327f85514ad8014db899375a22f6a",
+    "notes":  "Fine Nance 1.2.1: standalone wording and a zero-dollar cushion, automatic Plaid Production recognition, Windows Installed Apps uninstall support, and the latest Fine Nance improvements."
 }
