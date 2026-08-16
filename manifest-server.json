@@ -1,0 +1,6 @@
+{
+  "version": "1.3.3",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.3/fine-nance-server-1.3.3.zip",
+  "sha256": "a68dc7b97ffaf72bcfec66ed87ab66e765a0b18dc814a5ced10c1e57a609adae",
+  "notes": "Fine Nance Server 1.3.3 restores version reporting and update checks and adds private local receipt scanning to the Docker server."
+}
