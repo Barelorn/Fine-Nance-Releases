@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.0/Fine-Nance-Setup-1.3.0.exe",
-  "sha256": "aeffe3beb2b2523a98d2f66a962946bed7b8af6447bdf259829c18cbdf11b8ec",
-  "notes": "Fine Nance 1.3.0 adds private receipt scanning, reviewable register entries, searchable purchase history, and a complete removable Windows installation."
+  "version": "1.3.1",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.1/Fine-Nance-Setup-1.3.1.exe",
+  "sha256": "dc755d64d4b4c4398b78fc47f92533f9417d433c2d2343fe5c592d502852c41d",
+  "notes": "Fine Nance 1.3.1 makes connected-bank purchases visible automatically in new standalone profiles while retaining transfer, payment, and duplicate safeguards."
 }
