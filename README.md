@@ -1,11 +1,13 @@
 # Fine Nance releases
 
-This public repository contains signed update packages for **Fine Nance — Your Money, Finally Making Cents.**
+This public repository contains checksum-verified update packages for **Fine Nance — Your Money, Finally Making Cents.**
 
 It intentionally contains no financial records, bank credentials, Plaid tokens, email credentials, MFA secrets, or personal documents.
 
-Fine Nance checks `manifest.json`, downloads the named package, verifies its SHA-256 checksum, creates a local backup, and only then installs the update. User data, documents, MFA settings, and connected-account tokens remain local and are preserved during updates.
+The server edition checks `manifest.json`. The self-contained Windows edition checks `manifest-standalone.json`. Fine Nance verifies each package's SHA-256 checksum before installation. User data, documents, MFA settings, and connected-account tokens remain local and are preserved during updates.
 
-Current release: **1.1.1**
+Current standalone release: **1.2.0**
+
+The Windows installer is not yet code-signed, so Windows SmartScreen may show an **Unknown publisher** warning. Verify the checksum from the standalone manifest before running it.
 
 The application source is maintained separately in a private repository.

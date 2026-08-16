@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "package_url": "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/Fine-Nance-Setup-1.2.0.exe",
+  "sha256": "9c8b3e13cada314d38329065001d1f5d68ae1d4d5a0a8bea2a05396a810462c3",
+  "notes": "Fine Nance 1.2.0 adds the self-contained Windows installer, generic standalone bill planning with a $0 cushion, Production/Trial Plaid startup, normal Windows uninstall support, and upgrade-safe local data storage."
+}
