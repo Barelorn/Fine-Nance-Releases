@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.4/fine-nance-server-1.3.4.zip",
-  "sha256": "88340269a00012a2328d0c72d02b0e5c67fa3ccb940dcc70a66adf1cb7972859",
-  "notes": "Fine Nance Server 1.3.4 repairs automatic receipt text reading and lets saved failed scans be retried without another upload."
+  "version": "1.3.5",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.5/fine-nance-server-1.3.5.zip",
+  "sha256": "43617db6e8c7ed100d3e901e766b0aeaf9906982712eb6daf298d2a7c2eacc72",
+  "notes": "Fine Nance Server 1.3.5 lets receipts use connected credit cards and other payment accounts while keeping the checking register checking-only."
 }
