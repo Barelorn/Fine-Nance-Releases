@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.3",
-    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.1.3.zip",
-    "sha256":  "4db5f672c3ec617e3a5ef280df2ba83e63b0f8c48277ee7bf37018db63f2b17a",
-    "notes":  "Fine Nance 1.1.3: a branded sign-in screen, receipt-aware checking register, organized documents, improved auditing and reports, secure email alerts, payoff comparisons, trip tracking, and a GitHub-based backup-first updater."
+    "version":  "1.2.0",
+    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.2.0.zip",
+    "sha256":  "382435893e75f51ee115b5776f54aa37eb802f67e3982df8a6cfec9ce3febdd3",
+    "notes":  "Fine Nance 1.2.0: standalone wording and a zero-dollar cushion, automatic Plaid Production recognition, Windows Installed Apps uninstall support, and the latest Fine Nance improvements."
 }
