@@ -1,6 +1,6 @@
 {
-    "version":  "1.3.1",
-    "package_url":  "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.1/fine-nance-1.3.1.zip",
-    "sha256":  "bdcad2371c0468770e802eef1405f4bfb831e8b03a273bf846dcfb2e6e8dc4dd",
-    "notes":  "Fine Nance 1.3.1: standalone bank purchases now appear automatically, including transactions previously held for review; transfer and payment safeguards remain active."
+    "version":  "1.3.2",
+    "package_url":  "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.2/fine-nance-1.3.2.zip",
+    "sha256":  "33841af58ac9dd08aac90604cd008ee7a770f2dec6b81d2132ee22d2fb1462bc",
+    "notes":  "Fine Nance 1.3.2 adds the navy-and-teal Fine Nance icon to the Windows app, desktop shortcut, Start menu, setup program, and Installed Apps entry."
 }
