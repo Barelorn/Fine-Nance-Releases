@@ -1,6 +1,6 @@
 {
-    "version":  "1.2.1",
-    "package_url":  "https://raw.githubusercontent.com/Barelorn/Fine-Nance-Releases/main/fine-nance-1.2.1.zip",
-    "sha256":  "16a394826e5449757b18df0fdde30897ed8327f85514ad8014db899375a22f6a",
-    "notes":  "Fine Nance 1.2.1: standalone wording and a zero-dollar cushion, automatic Plaid Production recognition, Windows Installed Apps uninstall support, and the latest Fine Nance improvements."
+    "version":  "1.3.0",
+    "package_url":  "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.0/fine-nance-1.3.0.zip",
+    "sha256":  "9c99fdf163324a11b98ed1bde1f65a1588764fa3669a113ee6273dffbf6e29ec",
+    "notes":  "Fine Nance 1.3.0 adds private receipt scanning, reviewable register entries, searchable purchase history, and the complete one-click Windows installer."
 }
