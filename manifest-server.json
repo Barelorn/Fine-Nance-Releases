@@ -1,6 +1,6 @@
 {
-  "version": "1.3.10",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.10/fine-nance-server-1.3.10.zip",
-  "sha256": "8084980ef3f83933177f16a9492bb524d493e34a475a4b7de47b641945748fd5",
-  "notes": "Fine Nance 1.3.10: lets Data Audit classify Other spending as debt payments, transfers, income, reimbursements, investments, returned payments, or true spending."
+  "version": "1.3.11",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.11/fine-nance-server-1.3.11.zip",
+  "sha256": "8b5136d331d096b2c2bcbd244e02e3ad616ed5dfaca1e2df2f3a3ad0a272117b",
+  "notes": "Fine Nance 1.3.11: adds a dedicated ATM withdrawal category that remains outside purchase totals while making cash withdrawals searchable, filterable, and totalable."
 }
