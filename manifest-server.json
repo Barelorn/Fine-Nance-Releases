@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.5/fine-nance-server-1.3.5.zip",
-  "sha256": "43617db6e8c7ed100d3e901e766b0aeaf9906982712eb6daf298d2a7c2eacc72",
-  "notes": "Fine Nance Server 1.3.5 lets receipts use connected credit cards and other payment accounts while keeping the checking register checking-only."
+  "version": "1.3.6",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.6/fine-nance-server-1.3.6.zip",
+  "sha256": "b1d16a5bf93cc0460146c99e7359f9aef3ee57fd57cadc0facd14c2b656bf07b",
+  "notes": "Fine Nance Server 1.3.6 learns corrected merchant names and categories from reviewed receipts and recognizes strongly matching future scans."
 }
