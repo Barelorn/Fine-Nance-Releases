@@ -1,6 +1,6 @@
 {
-  "version": "1.3.8",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.8/fine-nance-server-1.3.8.zip",
-  "sha256": "d3bbd7206d44292339dbf58de839b388cb5b42f4d21201328958b5c73fd9a459",
-  "notes": "Fine Nance 1.3.8: adds numbered Transactions pages so every stored transaction is reachable while preserving account, category, and excluded-copy filters."
+  "version": "1.3.9",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.9/fine-nance-server-1.3.9.zip",
+  "sha256": "369b5465f40bd647f8ab820a872c965822629f552851882e36188fb6aa0a2621",
+  "notes": "Fine Nance 1.3.9: adds complete transaction-history pagination and repairs Linux update packaging so future verified SSH updates install without manual intervention."
 }
