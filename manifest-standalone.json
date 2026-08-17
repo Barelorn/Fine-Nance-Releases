@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.2/Fine-Nance-Setup-1.3.2.exe",
-  "sha256": "58552b1182331b558eb7e819fb89a2239fb12e73a00fb2bea8be3f3a59b67374",
-  "notes": "Fine Nance 1.3.2 replaces the generic launcher symbol with a proper Fine Nance icon on the app, desktop shortcut, Start menu, setup program, and Installed Apps entry."
+  "version": "1.3.12",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.12/Fine-Nance-Setup-1.3.12.exe",
+  "sha256": "d336b0115e314fe15631b17cb7eb325d41dce0ac6558ede483594631300a28c3",
+  "notes": "Fine Nance 1.3.12 brings the Windows standalone current with the fourteen-item server bundle while preserving its local database, documents, connections, and security settings."
 }
