@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.9/fine-nance-server-1.3.9.zip",
-  "sha256": "369b5465f40bd647f8ab820a872c965822629f552851882e36188fb6aa0a2621",
-  "notes": "Fine Nance 1.3.9: adds complete transaction-history pagination and repairs Linux update packaging so future verified SSH updates install without manual intervention."
+  "version": "1.3.10",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.10/fine-nance-server-1.3.10.zip",
+  "sha256": "8084980ef3f83933177f16a9492bb524d493e34a475a4b7de47b641945748fd5",
+  "notes": "Fine Nance 1.3.10: lets Data Audit classify Other spending as debt payments, transfers, income, reimbursements, investments, returned payments, or true spending."
 }
