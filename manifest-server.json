@@ -1,6 +1,6 @@
 {
-  "version": "1.3.12",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.12/fine-nance-server-1.3.12.zip",
-  "sha256": "5499c20e80045b58de033faf1fce5646fa31c68ce8155625e5d9708d727b4ad6",
-  "notes": "Fine Nance 1.3.12: fourteen-item bundle with improved receipts, Mission Lane PDF import, scheduled card payments, investment sync, safer duplicate handling, and account-history merging."
+  "version": "1.3.15",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.15/fine-nance-server-1.3.15.zip",
+  "sha256": "9fc9921354d61f2b18da8b6022d4902ae082ef4b0b907a4907e4ef50c9669bbf",
+  "notes": "Fine Nance 1.3.15: adds deduplicated funding-shortfall email alerts with the required deposit and deadline, plus the current batched planning and transaction improvements."
 }
