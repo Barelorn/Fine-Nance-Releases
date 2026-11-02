@@ -1,6 +1,6 @@
 {
-  "version": "1.3.15",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.15/fine-nance-server-1.3.15.zip",
-  "sha256": "9fc9921354d61f2b18da8b6022d4902ae082ef4b0b907a4907e4ef50c9669bbf",
-  "notes": "Fine Nance 1.3.15: adds deduplicated funding-shortfall email alerts with the required deposit and deadline, plus the current batched planning and transaction improvements."
+  "version": "1.3.16",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.16/fine-nance-server-1.3.16.zip",
+  "sha256": "0c9a41d588f74107169f6dde8db9394b7467f9c056df269fd8cf3821ae2eeba5",
+  "notes": "Fine Nance 1.3.16: corrects funding alerts for bank-pending VA income and weekend payroll dates, and shows the expected deposits included in each alert."
 }
