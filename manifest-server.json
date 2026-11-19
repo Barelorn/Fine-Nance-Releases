@@ -1,6 +1,6 @@
 {
-  "version": "1.3.16",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.16/fine-nance-server-1.3.16.zip",
-  "sha256": "0c9a41d588f74107169f6dde8db9394b7467f9c056df269fd8cf3821ae2eeba5",
-  "notes": "Fine Nance 1.3.16: corrects funding alerts for bank-pending VA income and weekend payroll dates, and shows the expected deposits included in each alert."
+  "version": "1.3.17",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.17/fine-nance-server-1.3.17.zip",
+  "sha256": "88c5a36b0daf429984a56ee42490cb261fd76d0755b30e8dd890ccfc8e550e3a",
+  "notes": "Fine Nance 1.3.17: adds polished responsive HTML designs for bill reminders, funding alerts, and test emails, while retaining plain-text fallbacks and avoiding tracking pixels."
 }
