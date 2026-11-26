@@ -1,6 +1,6 @@
 {
-  "version": "1.3.17",
-  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.17/fine-nance-server-1.3.17.zip",
-  "sha256": "88c5a36b0daf429984a56ee42490cb261fd76d0755b30e8dd890ccfc8e550e3a",
-  "notes": "Fine Nance 1.3.17: adds polished responsive HTML designs for bill reminders, funding alerts, and test emails, while retaining plain-text fallbacks and avoiding tracking pixels."
+  "version": "1.3.18",
+  "package_url": "https://github.com/Barelorn/Fine-Nance-Releases/releases/download/v1.3.18/fine-nance-server-1.3.18.zip",
+  "sha256": "55c952b2d1791cffc01702656c6805ef0b652ffa8640ff0687b549d962a653ce",
+  "notes": "Fine Nance 1.3.18: securely reads a dedicated Gmail bill folder, automatically updates clearly matched bill amounts and due days with an audit history, and explains bill-by-bill where a funding shortfall begins."
 }
